@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mellyssamnds</groupId>
-	<artifactId>pix-management-api</artifactId>
+	<artifactId>pixapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

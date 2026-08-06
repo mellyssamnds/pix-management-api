@@ -1,4 +1,4 @@
-package com.mellyssamnds.pix_management_api;
+package com.mellyssamnds.pixapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
